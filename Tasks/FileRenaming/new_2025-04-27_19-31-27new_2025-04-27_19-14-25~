@@ -1,0 +1,11 @@
+#!/bin/bash
+
+prefix = "new_"
+timestamp = $(date +%Y/%m/%d_%H-%M-%S)
+for file in *; do
+    if [ -f "$file" ]; then
+        new_name ="${prefix}${timestamp}${file}"
+        mv "$file" "$new_name"
+        echo "Renamed $file to $new_name at $timestamp"
+    fi
+done
