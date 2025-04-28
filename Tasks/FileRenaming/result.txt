@@ -4,7 +4,6 @@ Path/Omitted$ bash ./renamepractice.sh
 Renamed example.txt to be new_2025-04-27_19-14-25 at 2025-04-27_19-14-25
 Renamed renamepractice.sh to be new_2025-04-27_19-14-25 at 2025-04-27_19-14-25
 Renamed renamingfile.sh to be new_2025-04-27_19-14-25 at 2025-04-27_19-14-25
-richardruiming@DESKTOP-3E4QT8D:/mnt/c/Users/HP/OneDrive - University of
 Path/Omitted$ ls
 new_2025-04-27_19-14-25
 
