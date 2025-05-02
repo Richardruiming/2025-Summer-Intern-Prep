@@ -1,0 +1,32 @@
+There are 169 paths with negative slack.
+The following 5 paths have the most negative slack:
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.498
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.495
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.491
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.487
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.481
+

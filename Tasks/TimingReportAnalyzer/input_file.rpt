@@ -1,0 +1,3499 @@
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.257 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.849 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.203 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.084 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.545 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.258 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.246 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.232 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.033 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.47 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.054 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.389 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.07 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.268 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.941 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.19 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.095 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.012 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.356 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.444 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.768 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.626 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.052 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.547 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.2 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.296 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.038 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.392 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.528 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.075 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.399 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.598 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.464 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.123 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.925 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.686 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.421 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.339 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.149 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.833 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.193 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.226 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.306 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.498 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.36 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.283 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.219 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.469 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.391 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.048 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.511 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.096 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.512 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.065 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.22 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.176 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.707 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.439 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.168 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.554 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.421 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.572 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.087 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.285 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.223 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.53 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.331 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.253 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.619 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.261 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.85 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.172 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.057 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.255 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.135 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.066 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.148 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.137 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.71 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.165 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.362 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.343 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.456 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.417 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.251 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.959 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.043 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.465 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.598 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.315 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.385 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.915 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.106 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.985 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.3 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.487 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.023 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.495 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.997 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.655 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.477 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.316 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.215 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.998 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.653 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.35 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.316 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.106 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.142 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.711 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.875 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.609 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.3 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.779 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.151 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.176 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.499 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.274 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.077 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.894 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.9 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.475 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.811 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.022 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.002 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.483 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.526 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.731 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.384 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.437 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.001 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.145 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.533 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.968 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.14 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.661 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.015 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.104 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.134 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.729 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.0 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.972 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.886 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.102 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.291 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.108 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.773 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.469 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.291 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.247 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.614 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.674 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.07 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.532 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.462 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.917 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.243 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.046 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.464 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.167 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.315 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.613 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.739 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.99 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.785 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.466 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.363 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.797 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.405 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.188 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.453 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.178 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.063 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.359 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.688 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.731 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.505 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.059 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.475 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.659 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.86 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.653 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.557 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.824 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.597 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.008 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.14 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.31 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.343 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.049 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.13 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.15 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.306 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.651 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.585 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.384 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.447 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.893 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.172 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.068 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.643 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.079 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.226 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.307 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.366 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.172 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.225 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.153 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.333 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.687 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.291 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.575 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.238 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.542 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.114 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.113 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.957 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.654 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.528 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.277 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.344 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.765 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.27 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.379 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.168 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.867 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.101 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.283 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.317 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.766 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.274 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.024 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.275 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.117 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.807 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.505 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.934 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.696 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.933 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.855 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.228 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.709 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.967 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.919 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.381 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.091 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.906 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.158 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.652 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.05 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.481 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.145 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.087 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.159 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.015 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.106 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.844 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.042 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.267 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.167 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.181 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.242 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.448 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.359 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.799 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.457 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.234 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.153 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.462 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.817 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.318 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.097 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.774 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.931 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.02 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.346 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.145 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.194 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.952 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.792 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.276 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.244 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.276 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.773 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.586 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.139 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.005 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.952 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.073 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.775 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.358 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.313 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.414 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.477 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.78 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.168 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.824 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.471 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.024 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.195 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.487 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.306 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.203 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.407 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.913 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.247 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.076 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.387 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.431 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.265 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.106 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.757 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.429 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.473 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.766 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.414 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.203 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.395 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.86 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.246 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.608 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.159 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.033 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.055 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.387 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.74 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.57 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.521 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.664 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.048 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.375 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.362 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.112 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.587 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.98 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.444 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.777 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.205 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.959 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.331 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.409 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.611 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.113 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.389 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.189 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.271 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.468 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.744 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.596 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.491 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.625 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.831 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.316 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.465 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.213 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.596 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.839 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.592 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.908 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.888 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.376 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.89 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.565 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.346 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.451 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.189 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.534 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.285 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.413 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.086 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.926 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.805 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.513 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: -0.073 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.424 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.236 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.851 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.382 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.217 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.45 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.303 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.021 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.046 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.878 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.638 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.17 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.822 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.307 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.476 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.555 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.819 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.279 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.286 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.475 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.093 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.133 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.74 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.47 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.155 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.537 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.709 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.167 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.873 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.264 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.795 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.324 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.162 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.268 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.689 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.466 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.803 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.358 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.127 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.435 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.704 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.528 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.066 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.957 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.289 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.879 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.804 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.213 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.302 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.452 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.658 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.156 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: -0.199 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.622 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.789 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.2 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.176 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.423 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.297 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.767 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.65 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.83 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.045 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.239 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.554 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.048 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.428 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.553 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.375 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.73 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.447 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.219 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.418 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.843 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.971 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.037 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.379 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.7 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.971 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.065 ns
+...
+
+Startpoint: U8/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.407 ns
+...
+
+Startpoint: U9/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.238 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.886 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.27 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.031 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.003 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.455 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.193 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: clk2
+Path Type: setup
+Slack: 0.719 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.056 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.411 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.03 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.844 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.265 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.152 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: -0.047 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.955 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.101 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.846 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.439 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.282 ns
+...
+
+Startpoint: U2/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.657 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.044 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: -0.383 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.573 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U19/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: -0.12 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.512 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: io
+Path Type: setup
+Slack: 0.608 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.714 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.226 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.445 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U12/Q (rise edge)
+Path Group: core
+Path Type: hold
+Slack: 0.376 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.415 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: -0.356 ns
+...
+
+Startpoint: U1/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.981 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: 0.139 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.338 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: io
+Path Type: hold
+Slack: 0.187 ns
+...
+
+Startpoint: U10/CLK (rise edge)
+Endpoint: U11/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.382 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U18/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.336 ns
+...
+
+Startpoint: U3/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: core
+Path Type: setup
+Slack: -0.259 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U13/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.12 ns
+...
+
+Startpoint: U7/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk2
+Path Type: hold
+Slack: 0.27 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U14/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: -0.27 ns
+...
+
+Startpoint: U4/CLK (rise edge)
+Endpoint: U20/Q (rise edge)
+Path Group: clk
+Path Type: setup
+Slack: 0.303 ns
+...
+
+Startpoint: U5/CLK (rise edge)
+Endpoint: U15/Q (rise edge)
+Path Group: clk
+Path Type: hold
+Slack: 0.693 ns
+...

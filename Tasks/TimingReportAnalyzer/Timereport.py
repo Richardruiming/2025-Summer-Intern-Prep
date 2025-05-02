@@ -1,4 +1,4 @@
-import numpy as np
+#!/usr/bin/env python3
 class Path:
     def __init__(self, Startpoint, Endpoint, Path_Group, Path_Type, slack):
         self.Startpoint = Startpoint
@@ -7,16 +7,7 @@ class Path:
         self.Path_Type = Path_Type
         self.slack = slack
 
-def insertion(arr, slack):
-    temp = slack
-    for i in range(len(arr)):
-        if arr[i] > temp:
-            temp2 = arr[i]
-            arr[i] = temp
-            temp = temp2
-    return temp
-
-file = 'timing.rpt'
+file = 'large_timing.rpt'
 with open(file, 'r') as f:
     lines = f.readlines()
     error = 0
